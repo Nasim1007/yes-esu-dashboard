@@ -1,21 +1,21 @@
 {
 "sliders": [
-  {"id": 1, "link": "", "img": "", name: "Slider 1"},
-  {"id": 2, "link": "", "img": "", name: "Slider 2"},
-  {"id": 3, "link": "", "img": "", name: "Slider 3"},
-  {"id": 4, "link": "", "img": "", name: "Slider 4"},
-  {"id": 5, "link": "", "img": "", name: "Slider 5"},
-  {"id": 6, "link": "", "img": "", name: "Slider 6"} 
+  {"id": 1, "link": "", "img": "", "name": "Slider 1"},
+  {"id": 2, "link": "", "img": "", "name": "Slider 2"},
+  {"id": 3, "link": "", "img": "", "name": "Slider 3"},
+  {"id": 4, "link": "", "img": "", "name": "Slider 4"},
+  {"id": 5, "link": "", "img": "", "name": "Slider 5"},
+  {"id": 6, "link": "", "img": "", "name": "Slider 6"} 
 ],
 "galery": [
-{"id": 1, "img": "", name:"photo 1"},
-{"id": 2, "img": "", name:"photo 1"},
-{"id": 3, "img": "", name:"photo 2"},
-{"id": 4, "img": "", name:"photo 3"},
-{"id": 5, "img": "", name:"photo 4"},
-{"id": 6, "img": "", name:"photo 5"},
-{"id": 7, "img": "", name:"photo 6"},
-{"id": 8, "img": "", name:"photo 7"}
+{"id": 1, "img": "", "name":"photo 1"},
+{"id": 2, "img": "", "name":"photo 1"},
+{"id": 3, "img": "", "name":"photo 2"},
+{"id": 4, "img": "", "name":"photo 3"},
+{"id": 5, "img": "", "name":"photo 4"},
+{"id": 6, "img": "", "name":"photo 5"},
+{"id": 7, "img": "", "name":"photo 6"},
+{"id": 8, "img": "", "name":"photo 7"}
 ],
 "vacancies":[
   {
